@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(55deg, rgb(38, 12, 50), rgb(24, 10, 53));
+}
+
+.searchbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.searchbar input {
+  display: flex;
+  margin-top: 10%;
+  border: 0;
+  outline: 0;
+  background: #ffffff;
+  color: #555;
+  padding: 10px 25px;
+  height: 2.75rem;
+  border-radius: 1.875rem;
+  margin-left: 50%;
+  font-size: 1.125rem;}
+/* }# sourceMappingURL=main.css.map */
